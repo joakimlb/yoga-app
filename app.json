@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Serein",
+    "slug": "serein",
+    "scheme": "serein",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F4F5F1",
+    "plugins": [
+      "expo-router"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.serein.practice"
+    }
+  }
+}
